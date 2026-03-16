@@ -43,7 +43,7 @@ My name is Ana Beatriz, I'm 19 years old, and I live in Fortaleza-CE, Brazil. I 
 ## 📈 Estatísticas de Contribuição
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agostin-afk&theme=dracula" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anabeacm&theme=dracula" alt="Profile Details"/>
 </p>
 
 <p align="center">

@@ -39,6 +39,20 @@ My name is Ana Beatriz, I'm 19 years old, and I live in Fortaleza-CE, Brazil. I 
   <a target="_blank" href="https://www.instagram.com/ana_lua_beatriz/"> <img height="30" width="120" alt="Instagram-AnaBeatrizCarvalhoMenezes" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
   
 ## 
+
+## 📈 Estatísticas de Contribuição
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agostin-afk&theme=dracula" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anabeacm&theme=dracula" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anabeacm&theme=dracula" alt="Repos per Language"/>
+</p>
+
+##
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
 

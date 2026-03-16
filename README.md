@@ -18,6 +18,10 @@ My name is Ana Beatriz, I'm 19 years old, and I live in Fortaleza-CE, Brazil. I 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anabeacm&show_icons=true&theme=dracula&hide_border=true"/>
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabeacm&layout=compact&langs_count=16&theme=dracula&hide_border=true"/>
 </a>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anabeacm&theme=dracula&hide_border=true" alt="Streak Stats"/>
+</p>
   
 <div/>
 

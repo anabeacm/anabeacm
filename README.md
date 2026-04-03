@@ -1,10 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
 
-## <a target="_blank" href="https://anabeacm.github.io/exhibition-deploy/"> <img width=5% alt="GithubPortfolio" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a> Hello! I'm Ana Beatriz!
+## Hello! I'm Ana Beatriz!
 
 My name is Ana Beatriz, I'm 19 years old, and I live in Fortaleza-CE, Brazil. I have a degree as an IT Technician (2025) from the Federal Institute of Ceará - IFCE.
 
 - Studying Telecommunications Engineering at Uiversidade Federal do Ceará - UFC
+
+- Access my portfolio via GitHub Pages: <a target="_blank" href="https://anabeacm.github.io/exhibition-deploy/"> **Ana's portfólio** </a>
 
 - One of my favorite hobbies is reading, and I am passionate about Brazilian cinema
 

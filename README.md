@@ -11,6 +11,7 @@ My name is Ana Beatriz, I'm 19 years old, and I live in Fortaleza-CE, Brazil. I 
 - 🗯️ Some dreams come true, **be hopeful**
 
 <a target="_blank" href="https://www.instagram.com/ana_lua_beatriz/"> <img height="30" width="120" alt="Instagram-AnaBeatrizCarvalhoMenezes" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
+<a target="_blank" href="https://anabeacm.github.io/exhibition-deploy/"> <img height="30" width="120" alt="GithubPortfolio" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a> 
 
 <br/>
 

@@ -2,7 +2,7 @@
 
 ## Hello! I'm Ana Beatriz!
 
-My name is Ana Beatriz, I'm 20 years old, and I live in Brazil. I have a degree as an IT Technician (2025) from the Federal Institute of Ceará - IFCE and I'm currently studying Telecommunications Engineering at Uiversidade Federal do Ceará - UFC.
+My name is Ana Beatriz, I'm 20 years old, and I live in Brazil. I have a degree as an IT Technician (2025) from the Federal Institute of Ceará - IFCE and I'm currently studying Telecommunications Engineering at Universidade Federal do Ceará - UFC.
 
 - Access my portfolio via GitHub Pages: <a target="_blank" href="https://anabeacm.github.io/exhibition-deploy/"> **Ana's portfólio** </a>
 

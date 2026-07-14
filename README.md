@@ -25,11 +25,15 @@ My name is Ana Beatriz, I'm 20 years old, and I live in Brazil. I have a degree 
 ## Programming Languages
   <img align="center" alt="anabeacm-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="anabeacm-React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="anabeacm-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align= "center" alt="anabeacm-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align= "center" alt="anabeacm-Dart" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img align= "center" alt="anabeacm-Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/python-original.svg" />
+  <img align= "center" alt="anabeacm-Swift" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/swift-original.svg" />
 
-## Editing Programs
+## Editing and Frameworks
    <img align= "center" alt="anabeacm-Figma" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+   <img align= "center" alt="anabeacm-Flutter" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" />
+   <img align= "center" alt="anabeacm-Express" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
 
 ## 📈 Estatísticas de Contribuição
 
@@ -45,6 +49,7 @@ My name is Ana Beatriz, I'm 20 years old, and I live in Brazil. I have a degree 
 ##
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
+![Eclipse](https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
 
 <br>

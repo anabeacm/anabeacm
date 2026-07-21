@@ -1,14 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
 
-## Hello! I'm Ana Beatriz!
+# Hi, I'm Ana Beatriz 👋
+### Telecommunications Engineering Student | IT Technician | Software Development Enthusiast
 
 My name is Ana Beatriz, I'm 20 years old, and I live in Brazil. I have a degree as an IT Technician (2025) from the Federal Institute of Ceará - IFCE and I'm currently studying Telecommunications Engineering at Universidade Federal do Ceará - UFC.
 
-- Access my portfolio via GitHub Pages: <a target="_blank" href="https://anabeacm.github.io/exhibition-deploy/"> **Ana's portfólio** </a>
+I'm currently learning Object-Oriented Programming (OOP) with Python, practicing MATLAB through simple Linear Algebra projects, and designing a website interface in Figma.
 
-- One of my favorite hobbies is reading, and I am passionate about Brazilian cinema
+- 🌐 Portfolio → <a href="https://anabeacm.github.io/exhibition-deploy/">**Ana's Portfólio**</a>
 
-- 🗯️ Some dreams come true, **be hopeful**
+- 📖 One of my favorite hobbies is reading, and I am passionate about Brazilian cinema!
+
+- 🗯️ Some dreams come true, **be hopeful!**
 
 <a target="_blank" href="https://www.instagram.com/ana_lua_beatriz/"> <img height="30" width="120" alt="Instagram-AnaBeatrizCarvalhoMenezes" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 
@@ -22,24 +25,28 @@ My name is Ana Beatriz, I'm 20 years old, and I live in Brazil. I have a degree 
   
 <div/>
 
-## Programming Languages
+## Programming Languages | Libraries
   <img align="center" alt="anabeacm-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="anabeacm-React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align= "center" alt="anabeacm-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align= "center" alt="anabeacm-Dart" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align= "center" alt="anabeacm-Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align= "center" alt="anabeacm-Swift" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+  <img align="center" alt="anabeacm-React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-## Editing | Frameworks | IDE
-   <img align= "center" alt="anabeacm-Figma" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+## Frameworks
    <img align= "center" alt="anabeacm-Express" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
-   <img align= "center" alt="anabeacm-VSCode" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
    <img align= "center" alt="anabeacm-Flutter" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" />
+   
+## Development Tools
+   <img align= "center" alt="anabeacm-VSCode" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
    <img align= "center" alt="anabeacm-Netbeans" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/netbeans/netbeans-original.svg" />
    <img align= "center" alt="anabeacm-Eclipse" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" />
    <img align= "center" alt="anabeacm-XCode" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" />   
 
-## 📈 Estatísticas de Contribuição
+## Design
+   <img align= "center" alt="anabeacm-Figma" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anabeacm&theme=dracula" alt="Profile Details"/>
@@ -51,9 +58,6 @@ My name is Ana Beatriz, I'm 20 years old, and I live in Brazil. I have a degree 
 </p>
 
 ##
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
 
 <br>
 

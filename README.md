@@ -31,18 +31,16 @@ I'm currently learning Object-Oriented Programming (OOP) with Python, practicing
   <img align= "center" alt="anabeacm-Swift" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
   <img align="center" alt="anabeacm-React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-## Frameworks
+## Frameworks | Design
    <img align= "center" alt="anabeacm-Express" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
    <img align= "center" alt="anabeacm-Flutter" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" />
+   <img align= "center" alt="anabeacm-Figma" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
    
 ## Development Tools
    <img align= "center" alt="anabeacm-VSCode" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
    <img align= "center" alt="anabeacm-Netbeans" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/netbeans/netbeans-original.svg" />
    <img align= "center" alt="anabeacm-Eclipse" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" />
    <img align= "center" alt="anabeacm-XCode" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" />   
-
-## Design
-   <img align= "center" alt="anabeacm-Figma" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 
 ## GitHub Statistics
 

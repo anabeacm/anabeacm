@@ -7,7 +7,7 @@ My name is Ana Beatriz, I'm 20 years old, and I live in Brazil. I have a degree 
 
 I'm currently learning Object-Oriented Programming (OOP) with Python, practicing MATLAB through simple Linear Algebra projects, and designing a website interface in Figma.
 
-- 🌐 Portfolio → <a target="_blank" href="https://anabeacm.github.io/exhibition-deploy/">**Ana's Portfólio**</a>
+- 🌐 Portfolio → <a target="_blank" href="https://anabeacm.github.io/exhibition-deploy/">**Ana's Portfolio**</a>
 
 - 📖 One of my favorite hobbies is reading, and I am passionate about Brazilian cinema!
 

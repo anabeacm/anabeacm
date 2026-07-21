@@ -13,8 +13,6 @@ I'm currently learning Object-Oriented Programming (OOP) with Python, practicing
 
 - 🗯️ Some dreams come true, **be hopeful!**
 
-<a target="_blank" href="https://www.instagram.com/ana_lua_beatriz/"> <img height="30" width="120" alt="Instagram-AnaBeatrizCarvalhoMenezes" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
-
 <br/>
 
 # <img width=5% align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />       GitHub Analytics:

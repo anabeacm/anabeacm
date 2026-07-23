@@ -23,15 +23,15 @@ I'm currently learning Object-Oriented Programming (OOP) with Python, practicing
   
 <div/>
 
-## Programming Languages | Libraries
+## Programming Languages
   <img align="center" alt="anabeacm-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align= "center" alt="anabeacm-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align= "center" alt="anabeacm-Dart" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align= "center" alt="anabeacm-Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align= "center" alt="anabeacm-Swift" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-  <img align="center" alt="anabeacm-React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-## Frameworks | Design
+## Libraries | Frameworks | Design
+  <img align="center" alt="anabeacm-React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align= "center" alt="anabeacm-Express" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
    <img align= "center" alt="anabeacm-Flutter" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" />
    <img align= "center" alt="anabeacm-Figma" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
@@ -40,7 +40,8 @@ I'm currently learning Object-Oriented Programming (OOP) with Python, practicing
    <img align= "center" alt="anabeacm-VSCode" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
    <img align= "center" alt="anabeacm-Netbeans" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/netbeans/netbeans-original.svg" />
    <img align= "center" alt="anabeacm-Eclipse" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" />
-   <img align= "center" alt="anabeacm-XCode" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" />   
+   <img align= "center" alt="anabeacm-XCode" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" />  
+   <img align="center" alt="anabeacm-JupyterNotebook" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />
 
 ## GitHub Statistics
 

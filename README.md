@@ -9,7 +9,7 @@ I'm currently learning Object-Oriented Programming (OOP) with Python, practicing
 
 - 🌐 Portfolio → <a target="_blank" href="https://anabeacm.github.io/exhibition-deploy/">**Ana's Portfolio**</a>
 
-- 🗃️ Curriculum Vitae (Lattes Platform) <a target="_blank" href="http://lattes.cnpq.br/8518506350466973/">**Ana's Lattes**</a>
+- 🗃️ Curriculum Vitae (Lattes Platform) → <a target="_blank" href="http://lattes.cnpq.br/8518506350466973/">**Ana's Lattes**</a>
 
 - 📖 One of my favorite hobbies is reading, and I am passionate about Brazilian cinema!
 

@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
 
-# Hi, I'm Ana Beatriz!
+# Hi, I'm Ana!
 ### Telecommunications Engineering Student | IT Technician | Software Development Enthusiast
 
-My name is Ana Beatriz, I'm 20 years old, and I live in Brazil. I have a degree as an IT Technician (2025) from the Federal Institute of Ceará - IFCE and I'm currently studying Telecommunications Engineering at Universidade Federal do Ceará - UFC.
+My name is Ana Beatriz and I'm 20 years old. I have a degree as an IT Technician (2025) from the Federal Institute of Ceará - IFCE and I'm currently studying Telecommunications Engineering at Universidade Federal do Ceará - UFC.
 
-I'm currently learning Object-Oriented Programming (OOP) with Python, practicing MATLAB through simple Linear Algebra projects, and designing a website interface in Figma.
+Nowadays I'm learning Object-Oriented Programming (OOP) with Python, practicing MATLAB through simple Linear Algebra projects, and designing a website interface in Figma.
 
 - 🌐 Portfolio → <a target="_blank" href="https://anabeacm.github.io/exhibition-deploy/">**Ana's Portfolio**</a>
 

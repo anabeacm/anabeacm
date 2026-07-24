@@ -27,6 +27,7 @@ I'm currently learning Object-Oriented Programming (OOP) with Python, practicing
 <br/>
 
 <div align="center"> 
+   
 ## Programming Languages
    <img align="center" alt="anabeacm-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align= "center" alt="anabeacm-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />

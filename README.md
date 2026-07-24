@@ -26,13 +26,8 @@ I'm currently learning Object-Oriented Programming (OOP) with Python, practicing
 
 <br/>
 
-# <img width=5% align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />       GitHub Analytics:
-<div align="center">  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anabeacm&theme=dracula&hide_border=true" alt="Streak Stats"/>
-</p>
-
-   ## Programming Languages
+<div align="center"> 
+## Programming Languages
    <img align="center" alt="anabeacm-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align= "center" alt="anabeacm-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
    <img align= "center" alt="anabeacm-Dart" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
@@ -51,8 +46,13 @@ I'm currently learning Object-Oriented Programming (OOP) with Python, practicing
    <img align= "center" alt="anabeacm-Eclipse" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" />
    <img align= "center" alt="anabeacm-XCode" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" />  
    <img align="center" alt="anabeacm-JupyterNotebook" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />
+</div>
 
-   
+# <img width=5% align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />       GitHub Analytics:
+<div align="center">  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anabeacm&theme=dracula&hide_border=true" alt="Streak Stats"/>
+</p>   
 <div/>
 
 ## GitHub Statistics

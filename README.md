@@ -15,15 +15,6 @@ Nowadays I'm learning Object-Oriented Programming (OOP) with Python, practicing 
 
 - 🗯️ Some dreams come true, **be hopeful!**
 
-## Projects
-
-| Project | Description | Technologies |
-|----------|-------------|--------------|
-| Portfolio Website | Personal portfolio showcasing projects and experience | HTML, CSS, JavaScript |
-| ReStock iOS | Inventory management app built with SwiftUI | SwiftUI |
-| Telecom Simulations | Educational simulations involving stochastic signals and linear algebra | Python, NumPy, Jupyter |
-| Python OOP Playground | Collection of object-oriented programming implementations | Python |
-
 <br/>
 
 # <img width=5% align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />       GitHub Analytics:

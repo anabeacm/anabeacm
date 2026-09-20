@@ -48,11 +48,6 @@ Nowadays I'm learning Object-Oriented Programming (OOP) with Python, practicing 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anabeacm&theme=dracula" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anabeacm&theme=dracula" alt="Most Commit Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anabeacm&theme=dracula" alt="Repos per Language"/>
 </p>
 
